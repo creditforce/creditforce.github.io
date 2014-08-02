@@ -1,0 +1,12 @@
+# Site settings
+title: Credit Awesome
+email: jeff@m2bllc.com
+description: "We make credit stuff awesome!"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
