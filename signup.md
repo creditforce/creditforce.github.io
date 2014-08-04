@@ -8,9 +8,6 @@ id: signup
 <div class="container">
   <div class="row header">
     <div class="col-md-12">
-      <h3 class="logo">
-        <a href="index.html">React</a>
-      </h3>
       <h4>Set up your new account today.</h4>
       <p>
         30-day money-back guarantee that starts after your first payment.
