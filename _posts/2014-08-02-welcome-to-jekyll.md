@@ -3,6 +3,9 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-08-02 09:21:51
 categories: jekyll update
+author: Jessica Smith
+avatar: testimonial4.jpg
+image: blogpost2.png
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

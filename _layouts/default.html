@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-    <body id="{{ page.id }}">
+<body id="{{ page.id }}">
+{% include header.html %}
 
-    {% include header.html %}
+{{ content }}
 
-    {{ content }}
-
-    {% include footer.html %}
-
-    </body>
+{% include footer.html %}
+</body>
 </html>
