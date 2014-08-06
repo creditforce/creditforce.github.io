@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: jekyllrb
 github_username:  jekyll
+highlighter: false
 
 # Build settings
 markdown: kramdown
