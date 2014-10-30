@@ -17,11 +17,11 @@ id: pricing
     <div class="row charts">
       <div class="col-md-4">
         <div class="chart first">
-          <div class="plan-name">Freelance</div>
+          <div class="plan-name">Basic</div>
           <div class="quantity">
             <span class="dollar">$</span>
-            <span class="price">29</span>
-            <span class="period">/month</span>
+            <span class="price">49</span>
+            <span class="period">/user/month</span>
           </div>
           <div class="specs">
             <div class="spec">
@@ -53,12 +53,12 @@ id: pricing
       <div class="col-md-4">
         <div class="chart featured">
           <img src="/images/ribbon.png" class="popular" alt="ribbon" />
-          <div class="plan-name">Profesional</div>
+          <div class="plan-name">Advanced</div>
           <div class="quantity">
             <span class="dollar">$</span>
-            <span class="price">79</span>
-            <span class="period">/month</span>
-          </div>            
+            <span class="price">89</span>
+            <span class="period">/user/month</span>
+          </div>
           <div class="specs">
             <div class="spec">
               <span class="variable">15</span>
@@ -91,8 +91,8 @@ id: pricing
           <div class="plan-name">Premium</div>
           <div class="quantity">
             <span class="dollar">$</span>
-            <span class="price">119</span>
-            <span class="period">/month</span>
+            <span class="price">149</span>
+            <span class="period">/user//month</span>
           </div>
           <div class="specs">
             <div class="spec">
@@ -120,12 +120,11 @@ id: pricing
             <span>Start free trial</span>
           </a>
         </div>
-      </div>        
+      </div>
     </div>
     <div class="row message">
       <p>
-        All of our plans come with a 30 day trial with no credit card required, we also offer a 
-        <a href="/signup">free plan</a>.
+        All of our plans come with a 30 day trial with no credit card required.
       </p>
     </div>
     <div class="row faq">
@@ -172,256 +171,9 @@ id: pricing
         <div class="wrapper clearfix">
           <h4>
             <span class="brankic-phone2"></span>
-            Unsure which plan is best for you? You can call our sales team any day at 
-            <strong>1-800-123-4567</strong>
+            Unsure which plan is best for you? You can call our sales team any day at
+            <strong>813-355-1212.</strong>
           </h4>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div id="second-option">
-  <div class="container">
-    <div class="row header">
-      <div class="col-md-12">
-        <h3>Free trial. No contract. Cancel when you want.</h3>
-        <p>All plans include a 7-day free trial</p>
-      </div>
-    </div>
-    <div class="row charts">
-      <div class="col-md-4">
-        <div class="chart first">
-          <div class="quantity">
-            <span class="dollar">$</span>
-            <span class="price">29</span>
-            <span class="period">/month</span>
-          </div>
-          <div class="plan-name">Freelance</div>
-          <div class="specs">
-            <div class="spec">
-              <span class="variable">5</span>
-              team members
-            </div>
-            <div class="spec">
-              <span class="variable">Digital</span>
-              recurring billing
-            </div>
-            <div class="spec">
-              <span class="variable">Virtual</span>
-              online terminal
-            </div>
-            <div class="spec">
-              <span class="variable">10</span>
-              total products
-            </div>
-            <div class="spec">
-              <span class="variable">1.0%</span>
-              Transaction fee
-            </div>
-          </div>
-          <a class="btn-signup button-clear" href="/signup">
-            <span>Start free trial</span>
-          </a>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="chart featured">
-          <div class="popular">Most popular</div>
-          <div class="quantity">
-            <span class="dollar">$</span>
-            <span class="price">79</span>
-            <span class="period">/month</span>
-          </div>
-          <div class="plan-name">Profesional</div>
-          <div class="specs">
-            <div class="spec">
-              <span class="variable">15</span>
-              team members
-            </div>
-            <div class="spec">
-              <span class="variable">Digital</span>
-              recurring billing
-            </div>
-            <div class="spec">
-              <span class="variable">Virtual</span>
-              online terminal
-            </div>
-            <div class="spec">
-              <span class="variable">15</span>
-              total products
-            </div>
-            <div class="spec">
-              <span class="variable">0.5%</span>
-              Transaction fee
-            </div>
-          </div>
-          <a class="btn-signup button-clear" href="/signup">
-            <span>Start free trial</span>
-          </a>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="chart last">
-          <div class="quantity">
-            <span class="dollar">$</span>
-            <span class="price">119</span>
-            <span class="period">/month</span>
-          </div>
-          <div class="plan-name">Premium</div>
-          <div class="specs">
-            <div class="spec">
-              <span class="variable">Unlimited</span>
-              team members
-            </div>
-            <div class="spec">
-              <span class="variable">Digital</span>
-              recurring billing
-            </div>
-            <div class="spec">
-              <span class="variable">Virtual</span>
-              online terminal
-            </div>
-            <div class="spec">
-              <span class="variable">25</span>
-              total products
-            </div>
-            <div class="spec">
-              <span class="variable">No</span>
-              Transaction fee
-            </div>
-          </div>
-          <a class="btn-signup button-clear" href="/signup">
-            <span>Start free trial</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div id="third-option">
-  <div class="container">
-    <div class="row header">
-      <div class="col-md-12">
-        <h3>Another format to show pricing</h3>
-        <p>This one shows 4 plans that includes a pretty basic one</p>
-      </div>
-    </div>
-
-    <div class="row charts">
-      <div class="col-md-12">
-        <div class="chart first">
-          <div class="plan-name">Freelance</div>
-          <div class="quantity">
-            <span class="dollar">$</span>
-            <span class="price">29</span>
-            <span class="period">/month</span>
-          </div>
-          <div class="specs">
-            <div class="spec">
-              <span class="variable">5</span>
-              team members
-            </div>
-            <div class="spec">
-              <span class="variable">Digital</span>
-              recurring billing
-            </div>
-            <div class="spec">
-              <span class="variable">Virtual</span>
-              online terminal
-            </div>
-            <div class="spec">
-              <span class="variable">10</span>
-              total products
-            </div>
-            <div class="spec">
-              <span class="variable">1.0%</span>
-              Transaction fee
-            </div>
-          </div>
-          <a class="btn-signup button-clear" href="/signup">
-            <span>Start free trial</span>
-          </a>
-        </div>
-        <div class="chart featured">
-          <img src="/images/ribbon.png" class="popular" alt="ribbon" />
-          <div class="plan-name">Profesional</div>
-          <div class="quantity">
-            <span class="dollar">$</span>
-            <span class="price">79</span>
-            <span class="period">/month</span>
-          </div>            
-          <div class="specs">
-            <div class="spec">
-              <span class="variable">15</span>
-              team members
-            </div>
-            <div class="spec">
-              <span class="variable">Digital</span>
-              recurring billing
-            </div>
-            <div class="spec">
-              <span class="variable">Virtual</span>
-              online terminal
-            </div>
-            <div class="spec">
-              <span class="variable">15</span>
-              total products
-            </div>
-            <div class="spec">
-              <span class="variable">0.5%</span>
-              Transaction fee
-            </div>
-          </div>
-          <a class="btn-signup button-clear" href="/signup">
-            <span>Start free trial</span>
-          </a>
-        </div>
-        <div class="chart last">
-          <div class="plan-name">Premium</div>
-          <div class="quantity">
-            <span class="dollar">$</span>
-            <span class="price">119</span>
-            <span class="period">/month</span>
-          </div>
-          <div class="specs">
-            <div class="spec">
-              <span class="variable">Unlimited</span>
-              team members
-            </div>
-            <div class="spec">
-              <span class="variable">Digital</span>
-              recurring billing
-            </div>
-            <div class="spec">
-              <span class="variable">Virtual</span>
-              online terminal
-            </div>
-            <div class="spec">
-              <span class="variable">25</span>
-              total products
-            </div>
-            <div class="spec">
-              <span class="variable">No</span>
-              Transaction fee
-            </div>
-          </div>
-          <a class="btn-signup button-clear" href="/signup">
-            <span>Start free trial</span>
-          </a>
-        </div>
-        <div class="basic-plan">
-          <div class="plan-name">Basic Plan</div>
-          <div class="quantity">
-            <span class="dollar">$</span>
-            <span class="price">9</span>
-            <span class="period">/month</span>
-          </div>
-          <p class="description">
-            This plan is great if you're just getting started or just want to test our services.
-            <a href="/signup">Start now</a>
-          </p>
         </div>
       </div>
     </div>

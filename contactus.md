@@ -11,7 +11,7 @@ id: contact-us
       <div class="col-md-8 message">
         <h3>Send us a message</h3>
         <p>
-          You can contact us with anything related to React. <br/> We'll get in touch with you as soon as possible.
+          You can contact us with anything related to Dispute Hero. <br/> We'll get in touch with you as soon as possible.
         </p>
         <form role="form" id="contact-form" method="post">
           <div class="form-group">
@@ -39,26 +39,27 @@ id: contact-us
         <div class="address">
           <h3>Our Address</h3>
           <p>
-            The Old Road Willington, <br />
-            7 Kings Road, <br />
-            Southshore, 64890
+            201 East Kennedy Blvd, <br />
+            Suite 950, <br />
+            Tampa, FL 33602
           </p>
         </div>
         <div class="phone">
           <h3>By Phone</h3>
           <p>
-            1-800-346-3344
+            813-355-1212
           </p>
         </div>
         <div class="online-support">
           <strong>Looking for online support?</strong>
           <p>
-            Talk to us now with our online chat
+            <a href="" target="_blank">You can request help or browse our FAQs.</a>
           </p>
         </div>
         <div class="social">
-          <a href="#" class="fb"><img src="/images/social/fb.png" alt="facebook" /></a>
-          <a href="#" class="tw"><img src="/images/social/tw.png" alt="twitter" /></a>
+          <a href="http://www.facebook.com/disputehero" class="fb"><img src="/images/social/fb.png" alt="facebook" /></a>
+          <a href="http://www.twitter.com/disputehero" class="tw"><img src="/images/social/tw.png" alt="twitter" /></a>
+          <a href="https://plus.google.com/u/0/111222490951262630554/about" class="gp" style="padding-left: 5px"><img src="/images/social/gp.png" alt="google plus" /></a>
         </div>
       </div>
     </div>

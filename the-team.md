@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Us
-permalink: /aboutus/
-id: about-us
+title: The Team
+permalink: /the-team/
+id: the-team
 ---
 
 <div id="slider">
